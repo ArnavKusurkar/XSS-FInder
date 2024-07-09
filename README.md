@@ -1,4 +1,4 @@
-# XSS-FInder
+# XSS-Finder
 Payloads Array:
 
 Defines an array $payloads containing example XSS payloads:
